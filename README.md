@@ -8,3 +8,7 @@
     
 <div size='20px'> Hola! Mi nombre es Ailen. Gracias por tomarse el tiempo para ver mi perfil de GitHub :smile: 
 </div>
+
+  <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://i.pinimg.com/564x/f8/52/ac/f852ac339766eee628be232f1e2de496.jpg" />
