@@ -8,7 +8,7 @@
     
 <div size='20px'> Hola! Mi nombre es Ailen. Gracias por tomarse el tiempo para ver mi perfil de GitHub :smile: 
 </div>
- 
+
 <p align="center">
-<a href="#"><https://media.giphy.com/media/iNrKXbwbPL45wPmjoJ/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+<a href="#"><"https://media.giphy.com/media/iNrKXbwbPL45wPmjoJ/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
     </p>
