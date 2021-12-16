@@ -13,4 +13,4 @@
 
 - 💡  Me gusta explorar nuevas tecnologías.
 - 🎓 Actualmente estoy cursando la Licenciatura en Sistemas en la Universidad Nacional General de Sarmiento, y en paralelo soy estudiante de SoyHenry.
-    
+- ✉️ ¡Podes enviarme un correo electrónico a Doloresp2000@hotmail.com! Intentaré responder tan pronto como pueda
