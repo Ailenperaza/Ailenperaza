@@ -10,5 +10,5 @@
 </div>
 
 <p align="center">
-<a href="#"><(https://user-images.githubusercontent.com/81453716/146456917-f72149e1-8348-4507-ac35-88b07a2b31d3.jpg" alt="Coder GIF" width="500" height="400"></a>
+<a href="#"><https://user-images.githubusercontent.com/81453716/146456917-f72149e1-8348-4507-ac35-88b07a2b31d3.jpg" alt="Coder GIF" width="500" height="400"></a>
     </p>
