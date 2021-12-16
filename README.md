@@ -10,5 +10,5 @@
 </div>
 
 <p align="center">
-<a href="#"><img src="https://dribbble.com/shots/5439070-Enjoy-Hard-Work/attachments/10869592?mode=media" alt="Coder GIF" width="500" height="400"></a>
+<a href="#"><https://user-images.githubusercontent.com/81453716/146460977-d11dcc03-2d29-4e92-ae28-1c8436b6edad.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
