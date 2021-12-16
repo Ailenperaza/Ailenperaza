@@ -10,5 +10,5 @@
 </div>
 
 <p align="center">
-<a href="#"><img src="https://media.giphy.com/media/H8bzCgnzMVgWs/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+<a href="#"><img src="https://c.tenor.com/1xlKrhS1TCgAAAAd/work-working.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
