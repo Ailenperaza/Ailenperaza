@@ -9,4 +9,6 @@
 <div size='20px'> Hola! Mi nombre es Ailen. Gracias por tomarse el tiempo para ver mi perfil de GitHub :smile: 
 </div>
 
-<img width="55%" align="right" alt="Github" src="https://i.pinimg.com/564x/f8/52/ac/f852ac339766eee628be232f1e2de496.jpg" />
+<p align="center">
+<a href="#"><img src="https://media.giphy.com/media/H8bzCgnzMVgWs/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+</p>
