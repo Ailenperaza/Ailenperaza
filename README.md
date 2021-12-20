@@ -12,7 +12,7 @@
 <h2> Sobre Mi<img align="right" width="375" alt="GIF" src="https://user-images.githubusercontent.com/81453716/146462611-5be00c91-e644-47a6-8f97-403faee2ec38.gif"/></h2>
 
 - 💡  Me gusta explorar nuevas tecnologías.
-- 🎓 Actualmente estoy cursando la Licenciatura en Sistemas en la Universidad Nacional de General Sarmiento, y paralelamente soy estudiante de SoyHenry.
+- 🎓 Actualmente estoy cursando la Licenciatura en Sistemas en la Universidad Nacional de General Sarmiento, y a su vez soy estudiante de SoyHenry.
 - ✉️ ¡Podes enviarme un correo electrónico a Doloresp2000@hotmail.com! Intentaré responder tan pronto como pueda.
     
  <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
